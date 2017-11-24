@@ -1,0 +1,11 @@
+ORB1, One satellite to low earth orbit weighing less than 7 metric tonnes; or One satellite to GTO weighing less than 5.5 metric tonnes, 62000000, LEO|GTO,U
+ORBH, One satellite to low earth orbit weighing less than 16 metric tonnes; or One satellite to GTO weighing less than 8 metric tonnes, 95000000, LEO|GTO,U
+ORBVH,	One payload to LEO weighing less than 100 tonnes; or One payload to GTO weighing less than 40 tonnes; or one payload to CSO (avail after Dec 2021), 150000000, LEO|GTO|CSO,U
+ISS5, Up to 5 tonnes of cargo delivered to the ISS with a Drako spacecraft (LEO),	76400000, LEO,U
+MOON2, Two space tourists to fly around the moon accompanied by an experienced astronaut, 92000000, CSO,M
+MARS1,	One way to mars (available after January 2027),	300000	, CSO, M
+MARS2,	To mars and back 3 years in space or on mars (available after July 2030), 2000000, CSO,M
+VENFLY, Flyby of Venus 2 years in space (available after December 2025), 2500000, CSO,M
+NY2LON, Sub Orbital New York to London flight (available after June 2022), 95000,  LEO,M
+LLOYDS, Insurance ,97100,NOR,N
+ONF, Nitrogen Flush, 185000,NOR,N
